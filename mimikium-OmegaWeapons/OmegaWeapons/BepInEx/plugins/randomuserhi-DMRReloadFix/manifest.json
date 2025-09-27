@@ -1,0 +1,9 @@
+{
+    "name": "DMRReloadFix",
+    "version_number": "0.0.6",
+    "website_url": "https://github.com/randomuserhi/DMRReloadFix",
+    "description": "A client-side mod that fixes DMR reloading to 11 when there is 1 bullet left in clip.",
+    "dependencies": [
+        "BepInEx-BepInExPack_GTFO-3.1.0"
+    ]
+}
